@@ -33,6 +33,8 @@
 <br><br>
 
 <div align="center">
+  <h2 align="center">Minhas Habilidades e Tecnologias</h2>
+
   <div>
     <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
